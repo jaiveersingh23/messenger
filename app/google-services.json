@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517571653702",
+    "project_id": "static-emblem-391804",
+    "storage_bucket": "static-emblem-391804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517571653702:android:29df5f33a22f810b7f9a47",
+        "android_client_info": {
+          "package_name": "com.app.onlychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7YOIBoCmPrWiUiGRj2F-Go8OfC3Wc_7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
